@@ -27,9 +27,33 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/fxaCAzW.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Check what are the available source.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/k70KDWN.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>User machine's IP address.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/IWGrh8D.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Destination IP addresses that the user's machine tried to connect to.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>.</b>
 <br/>
 
 <p align="center">
