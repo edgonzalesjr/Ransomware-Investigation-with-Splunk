@@ -85,21 +85,23 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/9yUo9DM.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/quvLzAR.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b>The actual name of the malicious script after it was flagged as malicious.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/MjFLUEC.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>A ransomware note was saved to the user's machine disk.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/9JqYLSq.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>The image file was saved to disk to replace the user's desktop wallpaper, similar to how most ransomware replaces the desktop wallpaper</b>
 <br/>
 
 ## Outcome
@@ -112,6 +114,8 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 ## Acknowledgements
 - Adapted from [TryHackMe - PS Eclipse](https://tryhackme.com/r/room/posheclipse)
 - [Splunk](https://www.splunk.com/)
+- [VirusTotal](https://www.virustotal.com/)
+- [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
 ## Disclaimer
 
