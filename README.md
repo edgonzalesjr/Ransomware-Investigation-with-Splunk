@@ -55,9 +55,33 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/zgETTsb.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The address from which the suspicious binary was downloaded.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/tPGQ0mw.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>The command was executed to configure the suspicious binary to run with elevated privileges.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/0oLTNJX.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>The permissions under which the suspicious binary runs, and the command that runs the binary with elevated privileges.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/zSJhDWs.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>The remote server to which the suspicious binary connected.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/4TqxgSS.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>A PowerShell script was downloaded to the same location as the suspicious binary.</b>
 <br/>
 
 <p align="center">
