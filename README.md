@@ -29,7 +29,7 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 <p align="center">
 <img src="https://imgur.com/fxaCAzW.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Check what are the available source.</b>
+<b>Check which sources are available.</b>
 <br/>
 
 <p align="center">
@@ -39,15 +39,15 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/IWGrh8D.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/mjg7xjG.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Destination IP addresses that the user's machine tried to connect to.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/nNzYJvu.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The suspicious destination IP address that the user's machine tried to connect to, along with a suspicious executable in the Temp directory, seems suspicious.</b>
 <br/>
 
 <p align="center">
