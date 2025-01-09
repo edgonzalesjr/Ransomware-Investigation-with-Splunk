@@ -21,7 +21,7 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 ## Perform Analysis
 
 <p align="center">
-<img src="https://imgur.com/Y6ETQ2Z.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/LwGyPzk.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Set the timeline to match the time of incident.</b>
 <br/>
@@ -29,7 +29,7 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 <p align="center">
 <img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>Check what are the available source.</b>
 <br/>
 
 <p align="center">
