@@ -47,6 +47,10 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 <p align="center">
 <img src="https://imgur.com/nNzYJvu.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
+<img src="https://imgur.com/nbWCpTQ.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/zeT5lk3.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
 <b>The suspicious destination IP address that the user's machine tried to connect to, along with a suspicious executable in the Temp directory, seems suspicious.</b>
 <br/>
 
