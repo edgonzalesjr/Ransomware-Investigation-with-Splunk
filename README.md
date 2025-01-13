@@ -17,7 +17,7 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 - VirusTotal: For checking malicious file hashes and binaries.
 - Sysmon: To monitor system activities and detect unauthorized downloads or command executions.
 
-## Perform Analysis
+## Practical Exercises
 
 <p align="center">
 <img src="https://imgur.com/LwGyPzk.png" height="40%" width="40%" alt="Device Specification"/>
