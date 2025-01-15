@@ -15,7 +15,7 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 - Splunk: For log analysis and timeline filtering.
 - CyberChef: For decoding and analyzing data.
 - VirusTotal: For checking malicious file hashes and binaries.
-- Sysmon: To monitor system activities and detect unauthorized downloads or command executions.
+- Sysmon: Track and record system activity in the Windows event log.
 
 ## Practical Exercises
 
