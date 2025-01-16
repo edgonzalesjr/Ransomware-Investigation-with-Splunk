@@ -15,7 +15,6 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 - Splunk: For log analysis and timeline filtering.
 - CyberChef: For decoding and analyzing data.
 - VirusTotal: For checking malicious file hashes and binaries.
-- Sysmon: Track and record system activity in the Windows event log.
 
 ## Practical Exercises
 
@@ -117,8 +116,7 @@ This project combines ideas and methods from various sources, such as the TryHac
  - [Splunk](https://www.splunk.com/)
  - [CyberChef](https://gchq.github.io/CyberChef/)
  - [VirusTotal](https://www.virustotal.com/)
- - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
-
+ 
 ## Disclaimer
 
 The sole goals of the projects and activities here are for education and ethical cybersecurity research. All work was conducted in controlled environments, such as paid cloud spaces, private labs, and online cybersecurity education platforms. Online learning and cloud tasks adhered closely to all usage guidelines. Never use these projects for improper or unlawful purposes. It is always prohibited to break into any computer system or network. Any misuse of the provided information or code is not the responsibility of the author or authors.
