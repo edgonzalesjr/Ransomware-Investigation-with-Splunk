@@ -115,6 +115,7 @@ To equip with the skills and methodologies necessary for investigating ransomwar
 This project combines ideas and methods from various sources, such as the TryHackMe - PS Eclipse room and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [TryHackMe - PS Eclipse](https://tryhackme.com/r/room/posheclipse)
  - [Splunk](https://www.splunk.com/)
+ - [CyberChef](https://gchq.github.io/CyberChef/)
  - [VirusTotal](https://www.virustotal.com/)
  - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
